@@ -15,6 +15,16 @@ A clean and beautiful Redis GUI client.
 
 ## Getting Started
 
+### View Connections
+
+Project: Only displayed in current project, Redis connection information is stored in the `.idea/redis-operator-connections.xml` file, you can sync this file to other computers via Git or other tools (sensitive information such as username and password will not be stored in this file, you need to re-enter on other computers).
+
+App: All projects are visible.
+
+you can also manage your Redis connections by adding new groups, with the right-click menu `Move to Group..` and `Move out of Group`, or more simply by dragging and dropping to manage the connections and groups.
+
+![](img/view-connections.png)
+
 ### Add Connection Settings
 
 ![](img/add-connection-settings1.png)
@@ -54,6 +64,8 @@ Value support **JSON**, **XML** and **HTML** view; **BASE64**, **GZIP**, **Msgpa
 ![](img/auto-refresh-value.png)
 
 ### Manage Shown Databases
+
+You can manage the db to be displayed.
 
 ![](img/manage-shown-databases.png)
 
