@@ -49,6 +49,11 @@ Value support **JSON**, **XML** and **HTML** view; **BASE64**, **GZIP**, **Msgpa
 
 ![](img/edit-key.png)
 
+### Sticky key on top
+
+![](img/sticky-on-top-menu.png)
+![](img/sticky-on-top-key.png)
+
 ### APP Settings
 
 ![](img/go-to-app-settings.png)
@@ -68,6 +73,23 @@ Value support **JSON**, **XML** and **HTML** view; **BASE64**, **GZIP**, **Msgpa
 You can manage the db to be displayed.
 
 ![](img/manage-shown-databases.png)
+
+### Redis Info (Redis cluster is not supported)
+
+![](img/redis-info-menu.png)
+![](img/redis-info-dialog.png)
+
+### Redis Config Management (Redis cluster is not supported)
+
+![](img/redis-config-menu.png)
+![](img/redis-config-dialog.png)
+
+### Bulk Copy Keys
+
+Copy keys to another db
+
+![](img/bulk-copy-keys-menu.png)
+![](img/bulk-copy-keys-dialog.png)
 
 ### Export Collection Values
 
