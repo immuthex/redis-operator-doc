@@ -1,5 +1,9 @@
 # Redis Operator
 
+**This is a Redis plugin for the Intellij platform, [Plugin homepage](https://plugins.jetbrains.com/plugin/19599-redis-operator).**
+
+---
+
 A clean and beautiful Redis GUI client.
 
 - Support stand-alone, sentinel and cluster mode
