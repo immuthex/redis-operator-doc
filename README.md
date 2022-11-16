@@ -74,15 +74,55 @@ You can manage the db to be displayed.
 
 ![](img/manage-shown-databases.png)
 
-### Redis Info (Redis cluster is not supported)
+### Redis Info
 
 ![](img/redis-info-menu.png)
+
+- Standalone or Sentinel
+
 ![](img/redis-info-dialog.png)
 
-### Redis Config Management (Redis cluster is not supported)
+- Cluster
+
+![](img/redis-info-cluster-dialog.png)
+
+### Redis Config Management
 
 ![](img/redis-config-menu.png)
+
+- Standalone or Sentinel
+
 ![](img/redis-config-dialog.png)
+
+- Cluster
+
+![](img/redis-config-cluster-dialog.png)
+
+### Redis Client List
+
+![](img/client-list-menu.png)
+
+- Standalone or Sentinel
+
+![](img/client-list-dialog.png)
+
+By default, these columns are displayed: id, addr, laddr, name, age, idle, flags, db. You can change the columns you want to display and drag the table header to change the order of the columns.
+
+![](img/client-list-dialog-manage-shown-columns.png)
+
+- Cluster
+
+![](img/client-list-cluster-dialog.png)
+
+### Redis Cluster Nodes
+
+![](img/cluster-nodes-menu.png)
+![](img/cluster-nodes-dialog.png)
+
+### Redis Cluster Info
+
+![](img/cluster-info-menu.png)
+![](img/cluster-info-dialog.png)
 
 ### Bulk Copy Keys
 
